@@ -1,0 +1,29 @@
+* {
+  margin: auto;
+  border: 0;
+}
+
+.parent {
+  width: 500px;
+  background-color: aquamarine;
+}
+
+.top {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading:hover {
+  cursor: pointer;
+  background-color: blue;
+  color: wheat;
+}
+
+#tab1 {
+  border-bottom: 2px solid rebeccapurple;
+}
+
+.content {
+  padding: 10px;
+}
